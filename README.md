@@ -5,7 +5,7 @@ now = datetime.now()
 print(now)
 
 
-#Get only Current date
+# Get only Current date
 
 from datetime import date
 
