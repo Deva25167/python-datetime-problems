@@ -11,3 +11,9 @@ from datetime import date
 
 today = date.today()
 print(today)
+
+# Get only current time
+
+from datetime import datetime
+current_time = datetime.now().time()
+print(current_time)
